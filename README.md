@@ -7,15 +7,23 @@ Le modèle 2020 reste une Ferrari 488 GTE, qui vient de participer aux 24h de Da
 # La demande :
 <b>Insérer une touche française (blanc + bleu) dans une décoration rouge de tradition, pour l’occasion des 24 heures du Mans en juin 2020. La dominante doit bien rester le rouge, mais toutes les variantes possibles d’intégration du blanc et du bleu sont imaginables.</b>
 
-Il s agit de donner de l originalité à la classique bande centrale blanche et bleue en la fragmentant, la divisant, la courbant, etc. dans le but de mettre en valeur les formes de la voiture. Celles‐ci ont la difficulté d’être larges et rondes mais avec des arêtes vives. Les zones les plus propices à une intervention graphique sont les ailes et contours de feux, la partie supérieure des flancs et le toit. Le reste (museau, capot et arrière) peut être investi mais il est déjà bien occupé par les marques et le numéro de course (voire ci‐dessous).
+Il s agit de donner de l originalité à la classique bande centrale blanche et bleue en la fragmentant, la divisant, la courbant, etc. dans le but de mettre en valeur les formes de la voiture. Celles‐ci ont la difficulté d’être larges et rondes mais avec des arêtes vives. Les zones les plus propices à une intervention graphique sont les ailes et contours de feux, la partie supérieure des flancs et le toit. Le reste (museau, capot et arrière) peut être investi mais il est déjà bien occupé par les marques et le numéro de course.
 
-Les marques à faire apparaitre sur la parties peintes de la voiture sont : « Ferrari of Huston », « Risi Competizione », « Pakelo » et  « Club Ferrari France » (voire p. 3) Leur emplacement peut varier, voire être intégré à la composition.
+Les marques à faire apparaitre sur la parties peintes de la voiture sont : « Ferrari of Huston », « Risi Competizione », « Pakelo » et  « Club Ferrari France » (voir p. 3 de la présentation) Leur emplacement peut varier, voire être intégré à la composition.
 
 # Les contraintes :
 - Le numéro de course, blanc sur fond vert, placé sur chacune des portes et sur le capot avant.
 - Le drapeau américain (nationalité de l’équipe) et stickers carré « Pro » (catégorie) à placer non loin de chaque numéro de course.
 
-# Le rendu
+# Le rendu : 
 Les étudiants peuvent travailler seuls ou en groupe et proposer un ou plusieurs projets chacun. 
 <b>Les projets seront à rendre en vectorisé (format de fichier .PDF, .AI ou .EPS) pour fin mars</b>
+- date de rendu :
+- fichier : de préférence au format PDF, nommé avec vos noms et prénoms sans caractère spéciaux selon le modele suivant :
+NOM_prenom.pdf ou bien NOM1_prenom1_NOM2_prenom2.pdf.
 
+# informations techniques :
+1 _ illustrator sera très probablement le logiciel à utiliser pour la mise en forme de votre proposition en tant que logiciel vectoriel de référence.
+2 _ si vous travaillez à partir d'images bitmap (photos) :
+- choisissez des documents ayant la meilleure résolution possible car l'impression se fera à une grande échelle comparée à votre écran.
+- veillez à vectoriser votre image sous illustrator (menu Objet-Vectorisation de l'image(CS6)  puis en utilisant les options qui vous conviennent sur le nombre de couleurs en particulier).
