@@ -9,7 +9,7 @@ Le modèle 2020 reste une Ferrari 488 GTE, qui vient de participer aux 24h de Da
 
 Il s agit de donner de l originalité à la classique bande centrale blanche et bleue en la fragmentant, la divisant, la courbant, etc. dans le but de mettre en valeur les formes de la voiture. Celles‐ci ont la difficulté d’être larges et rondes mais avec des arêtes vives. Les zones les plus propices à une intervention graphique sont les ailes et contours de feux, la partie supérieure des flancs et le toit. Le reste (museau, capot et arrière) peut être investi mais il est déjà bien occupé par les marques et le numéro de course.
 
-Les marques à faire apparaitre sur la parties peintes de la voiture sont : « Ferrari of Huston », « Risi Competizione », « Pakelo » et  « Club Ferrari France » (voir p. 3 de la présentation) Leur emplacement peut varier, voire être intégré à la composition.
+Les marques a faire apparaitre sur la parties peintes de la voiture sont : « Ferrari of Huston », « Risi Competizione », « Pakelo » et  « Club Ferrari France » (voir présentation pdf) Leur emplacement peut varier, voire être intégré à la composition.
 
 # Les contraintes :
 - Le numéro de course, blanc sur fond vert, placé sur chacune des portes et sur le capot avant.
