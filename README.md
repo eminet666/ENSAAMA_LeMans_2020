@@ -24,6 +24,7 @@ NOM_prenom.pdf ou bien NOM1_prenom1_NOM2_prenom2.pdf.
 
 # informations techniques :
 1 _ illustrator sera très probablement le logiciel à utiliser pour la mise en forme de votre proposition en tant que logiciel vectoriel de référence.
+
 2 _ si vous travaillez à partir d'images bitmap (photos) :
 - choisissez des documents ayant la meilleure résolution possible car l'impression se fera à une grande échelle comparée à votre écran.
 - veillez à vectoriser votre image sous illustrator (menu Objet-Vectorisation de l'image(CS6)  puis en utilisant les options qui vous conviennent sur le nombre de couleurs en particulier).
