@@ -12,6 +12,8 @@ Il s agit de donner de l originalité à la classique bande centrale blanche et 
 Les marques a faire apparaitre sur la parties peintes de la voiture sont : « Ferrari of Huston », « Risi Competizione », « Pakelo » et  « Club Ferrari France » (voir présentation pdf) Leur emplacement peut varier, voire être intégré à la composition.
 
 # Les contraintes :
+- </b>la "Frech Touch" sera appliquée sous forme de sticker imprimé à partir d'un format vectoriel, permettant un adaptation aisée aux dimensions de la voiture. Cela n'empêche en rien d'utiliser des éléments figuratifs.</b>
+- </b>la couleur de référence du Bleu de France vous est donnée dans les fichiers annexés.</b>
 - Le numéro de course, blanc sur fond vert, placé sur chacune des portes et sur le capot avant.
 - Le drapeau américain (nationalité de l’équipe) et stickers carré « Pro » (catégorie) à placer non loin de chaque numéro de course.
 
@@ -25,7 +27,7 @@ NOM_prenom.pdf ou bien NOM1_prenom1_NOM2_prenom2.pdf.
 - légende : <b>chaque proprosition intègrera un titre qui condensera l'idée proposée.</b>
 
 # informations techniques :
-1 _ illustrator sera très probablement le logiciel à utiliser pour la mise en forme de votre proposition en tant que logiciel vectoriel de référence.
+1 _ illustrator sera très probablement le logiciel à utiliser pour la mise en forme de votre proposition en tant que logiciel de dessin vectoriel de référence.
 
 2 _ si vous travaillez à partir d'images bitmap (photos) :
 - choisissez des documents ayant la meilleure résolution possible car l'impression se fera à une grande échelle comparée à votre écran.
