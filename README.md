@@ -17,10 +17,12 @@ Les marques a faire apparaitre sur la parties peintes de la voiture sont : « Fe
 
 # Le rendu : 
 Les étudiants peuvent travailler seuls ou en groupe et proposer un ou plusieurs projets chacun. 
-<b>Les projets seront à rendre en vectorisé (format de fichier .PDF, .AI ou .EPS) pour fin mars</b>
-- date de rendu :
-- fichier : de préférence au format PDF, nommé avec vos noms et prénoms sans caractère spéciaux selon le modele suivant :
+
+- date de rendu : <b>jeudi 28 mars</b>
+- format : <b>fichier vectoriel .PDF, .AI ou .EPS</b>
+- fichier : <b>de préférence au format PDF, nommé avec vos noms et prénoms sans caractère spéciaux selon le modele suivant </b>:
 NOM_prenom.pdf ou bien NOM1_prenom1_NOM2_prenom2.pdf.
+- légende : <b>chaque proprosition intègrera un titre qui condensera l'idée proposée.</b>
 
 # informations techniques :
 1 _ illustrator sera très probablement le logiciel à utiliser pour la mise en forme de votre proposition en tant que logiciel vectoriel de référence.
